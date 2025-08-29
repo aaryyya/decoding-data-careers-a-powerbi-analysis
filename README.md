@@ -25,8 +25,7 @@ The project is built around a comprehensive dataset and leverages the powerful f
 
 ## PowerBI Dashboard
 
-![Analysis Dashboard](image.png)
-
+![Analysis Dashboard](image-1.png)
 
 
 ## How to Use This File
